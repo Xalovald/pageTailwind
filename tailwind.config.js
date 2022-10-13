@@ -9,13 +9,16 @@ module.exports = {
         "brown": "#836110",
         "dark_red": "#E3473B",
         "light_grey": "#E8E8E8",
-        "darker_grey": "#171717"
+        "darker_grey": "#171717",
+        "lighter_grey": "#D6D7D8",
+        "dark_grey": "#B9B9BA",
+        "light_black": "#090909"
       },
       fontFamily: {
         sans: ['Lato', ...defaultTheme.fontFamily.sans],
         'FontAwesome': ['FontAwesome'],
         'Geomanist': ['Geomanist', 'sans-serif'],
-        'Asap': ['Asap'],
+        'Asap': ['Asap', 'sans-serif'],
         'Geomanist_medium': ['Geomanist_medium', 'sans-serif']
       },
       screens: {

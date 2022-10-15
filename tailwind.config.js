@@ -1,4 +1,5 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
+const { RuntimeGlobals } = require('webpack');
 
 module.exports = {
   content: ['./src/**/*.{html,js}'],
@@ -12,7 +13,9 @@ module.exports = {
         "darker_grey": "#171717",
         "lighter_grey": "#D6D7D8",
         "dark_grey": "#B9B9BA",
-        "light_black": "#090909"
+        "light_black": "#090909",
+        "white_0.4": "rgba(255,255,255,0.4)",
+        "darky_grey": "#373636"
       },
       fontFamily: {
         sans: ['Lato', ...defaultTheme.fontFamily.sans],

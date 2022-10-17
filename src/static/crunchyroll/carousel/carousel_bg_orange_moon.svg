@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3310 1902" data-t="hero-carousel-orange-svg" aria-labelledby="hero-carousel-orange-svg" aria-hidden="true" role="img" preserveAspectRatio="xMidYMid slice">
+    <metadata>
+        Created by DEREPIERRE Alexandre
+    </metadata>
+    <title id="hero-carousel-orange-svg">Decoration</title>
+    <linearGradient id="hero-carousel-orange-left" x1="-4.905599%" x2="3.218293%" y1="57.147482%" y2="47.205789%">
+        <stop offset="0" stop-color="#fab818"></stop><stop offset="1" stop-color="#f47521"></stop>
+    </linearGradient>
+    <linearGradient id="hero-carousel-orange-right" x1="18.134394%" x2="17.02757%" y1="51.289201%" y2="65.140597%">
+        <stop offset="0" stop-color="#f47521"></stop>
+        <stop offset="1" stop-color="#fab818"></stop>
+    </linearGradient>
+    <g fill="none" fill-rule="evenodd">
+        <path d="m2268.26052 463.970455c491.14993 42.97005 875.54102 389.228143 947.31334 815.626515l-.00832.0154c2.39794-16.4818 4.33733-33.11744 5.80536-49.89719 45.68251-522.153494-382.34892-986.130402-956.03495-1036.321426-573.68604-50.191025-1075.78345 332.410153-1121.46596 854.563646-6.57238 75.12255-3.3423 149.04091 8.72181 220.6961l.00788-.0149c72.2207-496.400539 560.40996-853.246302 1115.66084-804.668145z" fill="url(#hero-carousel-orange-left)" opacity=".8" transform="matrix(.98162718 .190809 -.190809 .98162718 180.210179 -402.972573)"></path>
+        <path d="m1194.30704 945.79957c491.14993 42.970052 875.54103 389.22814 947.31335 815.62652l-.00832.01539c2.39794-16.48178 4.33732-33.11743 5.80536-49.89718 45.68251-522.1535-382.34892-986.130407-956.03496-1036.321432-573.686038-50.191025-1075.783454 332.410152-1121.4659656 854.563652-6.5723707 75.12254-3.3422985 149.0409 8.7218102 220.6961l.0078811-.01491c72.2207013-496.40053 560.4099703-853.246297 1115.6608443-804.66814z" fill="url(#hero-carousel-orange-right)" transform="matrix(-.99026807 -.1391731 .1391731 -.99026807 2037.292749 2574.701313)"></path>
+    </g>
+</svg>

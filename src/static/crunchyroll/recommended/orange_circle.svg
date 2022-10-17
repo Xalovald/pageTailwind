@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 335" data-t="curated-feed-even-circle-svg" aria-labelledby="curated-feed-even-circle-svg" aria-hidden="true" role="img">
+    <metadata>
+        Created by DEREPIERRE Alexandre
+    </metadata>
+    <title id="curated-feed-even-circle-svg">Decoration</title>
+    <linearGradient id="pcf-even-circle-a" x1="40.79324%" x2="70.39388%" y1="72.66069%" y2="33.26471%">
+        <stop offset="0" stop-color="#ffc94d" stop-opacity=".2"></stop>
+        <stop offset="1" stop-color="#fab818"></stop>
+    </linearGradient>
+    <ellipse cx="168" cy="167.5" fill="url(#pcf-even-circle-a)" fill-opacity=".9" fill-rule="evenodd" rx="168" ry="167.5"></ellipse>
+</svg>

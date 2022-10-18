@@ -1,15 +1,35 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2440 2102" data-t="hero-carousel-blue-svg" aria-labelledby="hero-carousel-blue-svg" aria-hidden="true" role="img" preserveAspectRatio="xMidYMid slice">
-    <metadata>
-        Created by DEREPIERRE Alexandre
-    </metadata>
-    <title id="hero-carousel-blue-svg">Decoration</title>
-    <g fill="none" fill-rule="evenodd">
-        <path d="M1034.49 1C1558.882 1 2037.187-24.606 2102 482c-187.609-254.74-535.09-2.856-875.79-2.856-569.125 0-1030.49 461.216-1030.49 1030.154 0 44.719 2.85 88.772 8.378 131.988C78.322 1470.502 4 1259.505 4 1031.155 4 462.216 465.366 1 1034.49 1z" fill="#269495" fill-opacity=".3"></path>
-        <g fill="#213944" fill-opacity=".1">
-            <path d="M590 2255C198 2048-6 1328 480 799c-990 823-139.233 1640-139.233 1640S478 2268 590 2255zM1700 1445c-266-174-378-430-378-1163-74.406-107.16-193.739-72.827-358 103 12 514.667 257.333 868 736 1060z"></path>
-        </g>
-    </g>
+<svg width="1784" height="566" viewBox="0 0 1784 566" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_25_124)">
+<g filter="url(#filter0_d_25_124)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1218.89 -796.435C1815.95 -796.435 2360.53 -819.949 2434.33 -354.73C2220.72 -588.659 1825.09 -357.353 1437.18 -357.353C789.192 -357.353 155.41 -34.1995 252.932 616.375C257.386 646.085 259.077 669.345 265.371 709.031C122.167 552.199 45.6107 359.258 45.6107 149.563C45.6107 -372.898 570.907 -796.435 1218.89 -796.435Z" fill="#213944" fill-opacity="0.1" shape-rendering="crispEdges"/>
+</g>
+<g filter="url(#filter1_d_25_124)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M729.252 1207.37C403.239 1296.5 -85.521 325.09 557.175 -96.6759C-623.002 677.81 438.592 1439.2 438.592 1439.2C438.592 1439.2 597.659 1219.69 729.252 1207.37ZM2035.61 497.182C1723.07 332.282 1591.48 89.6689 1591.48 -605C1504.06 -706.556 1498.94 -757.632 1305.94 -591C1320.04 -103.247 1473.2 315.223 2035.61 497.182Z" fill="#213944" fill-opacity="0.1" shape-rendering="crispEdges"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_25_124" x="41.6107" y="-796.634" width="2396.72" height="1513.66" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.129412 0 0 0 0 0.223529 0 0 0 0 0.266667 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_25_124"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_25_124" result="shape"/>
+</filter>
+<filter id="filter1_d_25_124" x="-3.96082" y="-699.044" width="2043.57" height="2146.25" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.129412 0 0 0 0 0.223529 0 0 0 0 0.266667 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_25_124"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_25_124" result="shape"/>
+</filter>
+<clipPath id="clip0_25_124">
+<rect width="1784" height="566" fill="white"/>
+</clipPath>
+</defs>
 </svg>

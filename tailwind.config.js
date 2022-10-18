@@ -8,9 +8,11 @@ module.exports = {
       colors:{
         "lighter_gray": "#23252b",
         "orange_crunchyroll": "#f47521",
-        "white": "#FFFFFF",
         "light_grey": "#DADADA",
-        "light_black": "#141519"
+        "light_black": "#141519",
+        "primary_blue": "#269495",
+        "dark_grey": "#42423E",
+        "op_grey": "#A0A0A0"
       },
       fontFamily: {
         sans: ['Lato', ...defaultTheme.fontFamily.sans],
@@ -31,6 +33,8 @@ module.exports = {
         '97': '31.25rem'
       },
       backgroundImage:{
+        'OrangeToYellow': 'linear-gradient(to right, rgba(239,67,35,1), rgba(250,184,24,1))',
+        'BlackToBlue': 'linear-gradient(180deg, rgba(42, 189, 187, 0) 0%, rgba(0, 0, 0, 0.8) 89.58%, #000000 100%);'
       },
       boxShadow: {
         'inner_top_black': 'inset 0 11px 8px -11px rgba(0, 0, 0, 0.5)',
